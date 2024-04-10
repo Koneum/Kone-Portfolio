@@ -1,0 +1,42 @@
+{
+  "name": "koneporfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.3",
+    "@react-email/components": "^0.0.16",
+    "@react-email/tailwind": "^0.0.15",
+    "next": "14.1.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-slick": "^0.30.2",
+    "resend": "^0.16.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.0"
+  },
+  "devDependencies": {
+    "@react-three/drei": "^9.102.6",
+    "@react-three/fiber": "^8.16.0",
+    "@types/node": "^20.12.5",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "css-loader": "^7.0.0",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4",
+    "framer-motion": "^11.0.24",
+    "postcss": "^8",
+    "react-intersection-observer": "^9.8.1",
+    "style-loader": "^3.3.4",
+    "tailwindcss": "^3.3.0",
+    "three": "^0.162.0",
+    "typescript": "^5.4.4"
+  }
+}

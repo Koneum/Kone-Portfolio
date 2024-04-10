@@ -1,0 +1,13 @@
+.card {
+    background: #caf0f8 ;
+    padding: 3rem 5rem;
+    border-radius: 2rem;
+}
+.card p{
+    padding-top: 1rem;
+    line-height: 150%;
+}
+
+.expand {
+    width: 20rem;
+}
