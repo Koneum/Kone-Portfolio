@@ -67,7 +67,7 @@ For more details contact me</p>
         initial='hidden'
         animate='show'
         exit='hidden'
-        className='btn-box btns'
+        className='btn-box btns z-[20]'
         >
           <a href="../contact" className="btn">Hire Me</a>
         </motion.div>
