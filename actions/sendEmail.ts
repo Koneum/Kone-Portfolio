@@ -52,6 +52,9 @@ export const sendEmail = async (formData: FormData) => {
         // react: <EmailNameProps firstname{firstname} lastname{lastname} senderEmail{senderEmail} message{message}/>
         
     })
+    console.log('====================================');
+        console.log('value');
+        console.log('====================================');
 } catch (error) {
     console.log(error);
 }

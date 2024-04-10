@@ -22,7 +22,8 @@ const ContactForm = () => {
     <div className='contact-form-content '>
         <form 
         action={async (FormData) => {
-          await sendEmail(FormData);
+        const value =  await sendEmail(FormData)
+        
         }}
         >
             <div className='name-container'>
