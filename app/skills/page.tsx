@@ -29,13 +29,13 @@ const page = () => {
             </motion.div>
 
             <div id='skills'>
-            <div className="skills-row1">
+            <div className="skills-row1 z-[20]">
               <motion.div 
               variants={fadeIn('left', 0.2)}
               initial='hidden'
               animate='show'
               exit='hidden'
-              className="skills-column">
+              className="skills-column z-[20]">
                 <h3 className="title">FRONT-END</h3>
 
                 <div className="skills-box">
@@ -64,7 +64,7 @@ const page = () => {
               animate='show'
               exit='hidden'
               className="skills-column">
-              <h3 className="title">BACK-END</h3>
+              <h3 className="titlez-[20]">BACK-END</h3>
 
                   <div className="skills-box">
                     <div className="skills-content">
@@ -97,13 +97,13 @@ const page = () => {
               </motion.div>
             </div>
 
-            <div className="skill-row2">
+            <div className="skill-row2 z-[20]">
             <motion.div 
             variants={fadeIn('up', 0.4)}
             initial='hidden'
             animate='show'
             exit='hidden'
-            className="skills-column">
+            className="skills-column z-[20]">
                 <h3 className="title">TOOLS</h3>
 
                 <div className="skills-box">
@@ -126,7 +126,7 @@ const page = () => {
               initial='hidden'
               animate='show'
               exit='hidden'
-              className="skills-column">
+              className="skills-column z-[20]">
                 <h3 className="title">PROFESSIONAL SKILLS</h3>
 
                 <div className="skills-box">
