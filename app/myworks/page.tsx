@@ -33,7 +33,7 @@ const page = () => {
        text-[40px] font-semibold text-white'>Services</h3>
 
               <div className='flex flex-row font-bold items-center  
-              h-full w-full flex flex-col md:flex-row gap-10 px-10'>
+              h-full w-full flex flex-col md:flex-row gap-10 px-10 z-[20]'>
               <Services 
               title={'Graphic Design'} 
               description={''} 
