@@ -150,7 +150,7 @@ const page = () => {
               <div className="education-content">
                 <div className="content">
                   <div className="year">
-                    <div className='flex flex-row gap-3 '><RiCalendar2Line /> 2029 - 2020</div>
+                    <div className='flex flex-row gap-3 '><RiCalendar2Line /> 2019 - 2020</div>
                     </div>
                     <h3>Company (ISERV)</h3>
                     <p>- System and software assistant as well as user support</p>
